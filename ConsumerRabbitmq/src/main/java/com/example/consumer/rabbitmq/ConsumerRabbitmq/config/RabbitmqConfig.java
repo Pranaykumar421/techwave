@@ -17,6 +17,7 @@ Queue queueA()
 return new Queue("queue.AA",false);
 }
 @Bean
+//first github
 Queue queueB()
 {
 return new Queue("queue.BB",false);
