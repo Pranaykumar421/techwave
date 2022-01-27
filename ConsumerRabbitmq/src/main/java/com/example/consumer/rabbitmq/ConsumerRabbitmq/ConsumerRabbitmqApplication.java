@@ -9,5 +9,5 @@ public class ConsumerRabbitmqApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ConsumerRabbitmqApplication.class, args);
 	}
-
+//github
 }
